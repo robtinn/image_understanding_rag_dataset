@@ -1,0 +1,21 @@
+id,month,text,image_path,label
+1,june,"Absolutely delicious! The sushi was fresh, beautifully packed, and arrived right on time. Will definitely order again.",,positive
+2,july,"Half my order was missing and the burger looked thrown together. Not worth the money.",,negative
+3,july,"Packaging was leaking sauce everywhere. Presentation was a mess. Tasted like leftovers.",,negative
+4,july,"Burger was hot, fries were still crispy, and the milkshake wasn’t melted at all. Fantastic delivery service!",3.png,positive
+5,june,"Received the wrong items. I ordered vegetarian and got meat. Totally unacceptable.",,negative
+6,june,"Everything looked just like the pictures. Loved the garnish on the pasta and it tasted homemade. 10/10.",,positive
+7,july,"Even after 30 minutes the meal was warm and the presentation was excellent. Great job!",,positive
+8,july,"I’m impressed. Clean packaging, food portions were generous, and my instructions were followed exactly.",,positive
+9,july,"Pasta was overcooked, and the garlic bread was burnt. Not what I expected based on the menu photos.",,negative
+10,june,"Delivery took over an hour and the food was unappetizing by then. I ended up throwing most of it away.",,negative
+11,june,"The delivery person was courteous and the food smelled amazing before I even opened the bag. Wonderful experience.",,positive
+12,june,"Best takeout I’ve had in months. Even came with free sauces and napkins. Will recommend to friends.",7.png,positive
+13,july,"The food came looking like this..",2.png,positive
+14,june,"I love the food.",,positive
+15,july,"Food was cold and soggy by the time it got here. Fries were limp and unseasoned. Very disappointed.",,negative
+16,july,"Plastic container was cracked, and part of the meal had spilled. Didn't feel safe eating it.",,negative
+17,july,,6.png,positive
+18,june,,5.png,negative
+19,july,,1.png,positive
+20,june,"Wow look at this pizza!",4.png,negative
